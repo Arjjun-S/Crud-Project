@@ -15,9 +15,3 @@ A simple web-based CRUD (Create, Read, Update, Delete) application built using H
 - HTML
 - CSS
 - JavaScript
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Arjjun-S/Crud-Project.git
